@@ -1,0 +1,7 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/LWP-UserAgent-TWiki-TWikiGuest.t
+lib/LWP/UserAgent/TWiki/TWikiGuest.pm
+META.yml                                 Module meta-data (added by MakeMaker)
